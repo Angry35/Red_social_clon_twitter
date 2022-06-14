@@ -20,6 +20,6 @@
 
 ```python manage.py runserver```
 
- ```La el superusuario es: naruto```
- ```la contraseña es : 49578dante1935```
+###La el superusuario es: naruto
+###la contraseña es : 49578dante1935
 
