@@ -1,6 +1,5 @@
 # Red_social_clon_twitter
-## Este proyecto es un modelo clon hecho en con python y django: 
-
+### Este proyecto es un modelo clon hecho en con python y django: 
 #### Para utilizarlo/configurarlo:
 
 1. Clona el repositorio o descargalo como zip.
