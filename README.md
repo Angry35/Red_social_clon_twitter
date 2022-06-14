@@ -1,6 +1,4 @@
 # Red_social_clon_twitter
-# La el superusuario es: naruto
-# la contraseña es : 49578dante1935
 ## Este proyecto es un modelo clon hecho en con python y django: 
 
 #### Para utilizarlo/configurarlo:
@@ -22,4 +20,7 @@
 4. Corre el servidor.
 
 ```python manage.py runserver```
+
+ ```La el superusuario es: naruto```
+ ```la contraseña es : 49578dante1935```
 
